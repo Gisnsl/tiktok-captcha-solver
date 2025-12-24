@@ -35,7 +35,6 @@ Make sure you have **Python 3.10+** installed.
 ```bash
 git clone https://github.com/Gisnsl/tiktok-captcha-solver.git
 cd tiktok-captcha-solver
-pip install -r requirements.txt
 ```
 
 **Required Libraries:**
